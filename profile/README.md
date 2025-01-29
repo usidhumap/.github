@@ -7,9 +7,11 @@ Organização de projetos de desenvolvimento
 Máquinas usuais de analistas possuem configurações com:
 - Processador i3 3Ghz
 - RAM 16GB
+
 Pode ser requisitada uma máquina virtual junto à UISTI (Unidade de Infraestrutura, Suporte e Segurança de Tecnologia da Informação) com:
 - Processador Xeon 2.4GHz
 - RAM 32GB
+
 Idealizado projetos com tooling:
 - [WSL](https://learn.microsoft.com/pt-br/windows/wsl/install)
 - [Visual Studio Code](https://code.visualstudio.com/download)
